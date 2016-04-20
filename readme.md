@@ -1,12 +1,16 @@
 # JSOxConf
 
+> A day-long, community-focussed event for **everyone** who is excited about javascript and the front-end web.
+
 # HELLO THERE
 
 If you're reading this, **that's AWESOME** - we're not being secretive, we just want to make sure we've got stuff in place before publicly announcing it to everyone.
 
-So, get involved - either chat to Ben Ryan or Pete, or jump on #jsoxconf on the DO slack.
+So, it would be good if you kept it **kinda quiet** for now please.
 
-> A day-long, community-focussed event for **everyone** who is excited about javascript and the front-end web.
+Do come and chat to Ben Ryan or Pete, or jump on #jsoxconf on the DO slack.
+
+We'd love for you to be involved.
 
 ## Development
 
